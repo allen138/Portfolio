@@ -1,0 +1,15 @@
+body {
+    background-image: url(../img/portfolio/fullsize/pattern.jpg);
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.jumbotron {
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    background-color: chocolate;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
