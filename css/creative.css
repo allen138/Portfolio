@@ -46,6 +46,10 @@
  h6 {
    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
  }
+ .p-0{
+padding-top: 80px;
+  background-color: #f05f40;
+ }
  
  .bg-primary {
    background-color: #F05F40 !important;
@@ -61,6 +65,11 @@
  
  #contact {
    background-image: url("../img/portfolio/fullsize/pattern.jpg");
+   padding-top: 6rem;
+   padding-bottom: 4rem;
+ }
+ .contact-button {
+   padding: 80px;
  }
  
  section {
@@ -69,6 +78,9 @@
  
  .section-heading {
    margin-top: 0;
+ }
+ #about {
+   padding: 80px;
  }
  
  ::-moz-selection {
@@ -139,6 +151,24 @@
  #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
  #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
    background-color: transparent;
+ }
+ .social-media-icons {
+   float: right;
+   padding: 15px;
+ }
+ .media-icons {
+   padding: 20px;
+ }
+ .footer {
+   clear: both;
+   text-align: center;
+   text-transform: uppercase;
+   padding: 20px;
+   background-color: #212529;
+   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+   font-size: .9rem;
+   color: rgba(255, 255, 255, 0.7);
+   font-weight: 700;
  }
  
  @media (min-width: 992px) {
