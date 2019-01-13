@@ -15,7 +15,6 @@
  }
  
  .text-uppercase {
-   /* color: rgba(43, 40, 39, 0.644); */
    color: rgba(255, 255, 255, 0.644)
  }
  
@@ -61,12 +60,12 @@ padding-top: 80px;
  }
  
  .text-faded {
-   /* color: rgba(27, 26, 26, 0.9); */
    color: rgba(255, 255, 255, 0.9);
  }
- .codeLang{
-  color: rgba(33, 37, 41, 0.8)
-}
+ .bio{
+   color: rgba(27, 26, 26, 0.9);
+ }
+
  #contact {
    background-image: url("../img/portfolio/fullsize/pattern.jpg");
    padding-top: 6rem;
@@ -220,7 +219,6 @@ padding-top: 80px;
  header.masthead {
    padding-top: 10rem;
    padding-bottom: calc(10rem - 56px);
-   /* background-image: url("https://www.kafourymcdougal.com/wp-content/uploads/2016/06/snowboard.jpg"); */
    background-image: url("../img/portfolio/fullsize/IMG_1145.JPG");
    background-position: center center;
    background-size: cover;
