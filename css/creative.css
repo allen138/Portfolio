@@ -65,7 +65,13 @@ padding-top: 80px;
  .bio{
    color: rgba(27, 26, 26, 0.9);
  }
-
+ .project-row{
+   margin-bottom: 10px;
+   padding: 10px;
+ }
+.project-bottom{
+  padding-bottom: 10px;
+}
  #contact {
    background-image: url("../img/portfolio/fullsize/pattern.jpg");
    padding-top: 6rem;
