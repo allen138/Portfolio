@@ -2,6 +2,8 @@
 
 Hello! I am a full stack web developer and this is my portfolio. 
 
+![portfolio](img/portfolio/fullsize/portfolioSS.png)
+
 In this portfolio there are three sections: About Me, Portfolio, and Contact.
 
 ## About Me
@@ -9,6 +11,8 @@ In this portfolio there are three sections: About Me, Portfolio, and Contact.
 
 ## Portfolio
 - This is where I have displayed a few projects that I have either created or collaborated on. Some of these projects include an app called Newbee, In The Kitchen, and also some games I created with JavaScript. 
+
+![projects](img/portfolio/fullsize/projectsSS.png)
 
 ## Contact
 - You can fill out the contact form in this section if you have any comments or inqueries. There is also media links to my GitHub, Linkedin, and my resume. 
